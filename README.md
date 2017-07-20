@@ -2,7 +2,7 @@
 
 1. 할 일
 
-##~7/26
+-~7/26
 
 -Mongjin:     LinkedList, Queue TestCase Setting and Result
 
