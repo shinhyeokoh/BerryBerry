@@ -1,5 +1,5 @@
 # Functions
-* Input code Window - User will Input their code here. 
+* Input code Window - User will Input code here. 
 * Debugging starting Button - When user has finished typing code, They can debug their code by this button. 
 * Save button - (It will used to save user's code and user can also update code)
 * Variable Input Window - (Users Input variable name this window they want to check)
