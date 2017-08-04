@@ -5,5 +5,6 @@
 * Variable Input Window. (Users Input variable name this window they want to check)
 * Manage Multiple files Function. Users can manage their many code files.
 * Code range selection Fucntion. Users can select debugging range.
+* Storage system. When users tries to exit this program without saving file, Ask if users want to save file.
 * Output Window. This window will show how it look like Data Structure
 
