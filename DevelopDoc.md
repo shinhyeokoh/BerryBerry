@@ -18,7 +18,8 @@
 
 -출력형태 디자인 - clear
 
--OSS 활용할 방법 - BCI(주소)
+-OSS 활용할 방법 - BCI(주소)   https://github.com/EntryPointKR/Bytecode-Instrumentation
+출처: http://deidesheim.tistory.com/83 [Reverse]
 
 -개발 환경 설정 - eclipse(javax.swing)
 
